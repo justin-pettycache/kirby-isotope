@@ -1,0 +1,14 @@
+/* Gallery
+-------------------------------------------------- */
+.gallery-item {
+  width: 50%;
+}
+
+.gallery-filters button {
+  background-color: #eee;
+  padding: 20px;
+}
+
+.gallery-filters .active {
+  font-weight: bold;
+}
